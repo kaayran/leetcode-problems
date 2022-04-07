@@ -12,18 +12,30 @@ namespace Solution
         }
 
         public static int MySqrt(int x) {
-            for (int i = 0; i < 46340; i++)
+            if (x < 2) return x;
+            
+            var left = 1;
+            var right = x;
+            var res = 0;
+
+            while (left <= right)
             {
-                int lessMul = i * i;
-                int moreMul = (i + 1) * (i + 1);
+                var mid = left + (right - left) / 2;
 
-                if (lessMul == x) return i;
-                if (moreMul == x) return i + 1;
+                if (mid * mid == x) return mid;
 
-                if (lessMul < x && moreMul > x) return i;
+                if (mid >= x / mid) {
+                    right = mid - 1;
+                }
+
+                if (mid <= x / mid)
+                {
+                    left = mid + 1;
+                    res = mid;
+                }
             }
 
-            return 46340;
+            return res;
         }
     }
 }
