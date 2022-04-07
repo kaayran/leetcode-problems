@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\bin\Debug\net6.0\sqrt-x-69.exe
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\bin\Debug\net6.0\sqrt-x-69.deps.json
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\bin\Debug\net6.0\sqrt-x-69.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\bin\Debug\net6.0\sqrt-x-69.dll
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\bin\Debug\net6.0\sqrt-x-69.pdb
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.dll
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\refint\sqrt-x-69.dll
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.pdb
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\sqrt-x-69.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\sqrt-x-69\obj\Debug\net6.0\ref\sqrt-x-69.dll
