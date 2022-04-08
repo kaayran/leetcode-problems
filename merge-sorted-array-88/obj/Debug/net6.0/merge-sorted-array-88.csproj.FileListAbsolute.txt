@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\bin\Debug\net6.0\merge-sorted-array-88.exe
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\bin\Debug\net6.0\merge-sorted-array-88.deps.json
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\bin\Debug\net6.0\merge-sorted-array-88.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\bin\Debug\net6.0\merge-sorted-array-88.dll
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\bin\Debug\net6.0\merge-sorted-array-88.pdb
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.dll
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\refint\merge-sorted-array-88.dll
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.pdb
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\merge-sorted-array-88.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\merge-sorted-array-88\obj\Debug\net6.0\ref\merge-sorted-array-88.dll
