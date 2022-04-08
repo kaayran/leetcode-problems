@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\bin\Debug\net6.0\remove-duplicates-from-sorted-list-83.exe
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\bin\Debug\net6.0\remove-duplicates-from-sorted-list-83.deps.json
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\bin\Debug\net6.0\remove-duplicates-from-sorted-list-83.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\bin\Debug\net6.0\remove-duplicates-from-sorted-list-83.dll
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\bin\Debug\net6.0\remove-duplicates-from-sorted-list-83.pdb
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.dll
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\refint\remove-duplicates-from-sorted-list-83.dll
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.pdb
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\remove-duplicates-from-sorted-list-83.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\remove-duplicates-from-sorted-list-83\obj\Debug\net6.0\ref\remove-duplicates-from-sorted-list-83.dll
