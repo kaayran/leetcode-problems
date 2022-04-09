@@ -30,7 +30,7 @@ namespace Solution
         public static IList<int> InorderTraversal(TreeNode root) {
             var result = new List<int>();
 
-            Recursive(root, result);
+            Stacking(root, result);
 
             return result;
         }
@@ -43,6 +43,24 @@ namespace Solution
             result.Add(root.val);
             
             if (root.right != null) Recursive(root.right, result);
+        }
+
+        public static void Stacking(TreeNode root, List<int> result) {
+            var nodes = new Stack<TreeNode>();
+            var curr = root;
+
+            while (curr != null || nodes.Count != 0)
+            {               
+                while (curr != null)
+                {
+                    nodes.Push(curr);
+                    curr = curr.left;
+                }
+
+                curr = nodes.Pop();
+                result.Add(curr.val);
+                curr = curr.right;
+            }
         }
     }
 }
