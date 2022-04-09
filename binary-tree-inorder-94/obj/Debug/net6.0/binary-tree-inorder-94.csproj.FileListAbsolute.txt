@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\bin\Debug\net6.0\binary-tree-inorder-94.exe
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\bin\Debug\net6.0\binary-tree-inorder-94.deps.json
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\bin\Debug\net6.0\binary-tree-inorder-94.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\bin\Debug\net6.0\binary-tree-inorder-94.dll
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\bin\Debug\net6.0\binary-tree-inorder-94.pdb
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.dll
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\refint\binary-tree-inorder-94.dll
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.pdb
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\binary-tree-inorder-94.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\binary-tree-inorder-94\obj\Debug\net6.0\ref\binary-tree-inorder-94.dll
