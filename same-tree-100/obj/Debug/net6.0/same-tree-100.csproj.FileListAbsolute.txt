@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\same-tree-100\bin\Debug\net6.0\same-tree-100.exe
+A:\Repositories\C#\leetcode-problems\same-tree-100\bin\Debug\net6.0\same-tree-100.deps.json
+A:\Repositories\C#\leetcode-problems\same-tree-100\bin\Debug\net6.0\same-tree-100.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\same-tree-100\bin\Debug\net6.0\same-tree-100.dll
+A:\Repositories\C#\leetcode-problems\same-tree-100\bin\Debug\net6.0\same-tree-100.pdb
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.dll
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\refint\same-tree-100.dll
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.pdb
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\same-tree-100.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\same-tree-100\obj\Debug\net6.0\ref\same-tree-100.dll
