@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\bin\Debug\net6.0\symmetric-tree-101.exe
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\bin\Debug\net6.0\symmetric-tree-101.deps.json
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\bin\Debug\net6.0\symmetric-tree-101.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\bin\Debug\net6.0\symmetric-tree-101.dll
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\bin\Debug\net6.0\symmetric-tree-101.pdb
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.dll
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\refint\symmetric-tree-101.dll
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.pdb
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\symmetric-tree-101.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\symmetric-tree-101\obj\Debug\net6.0\ref\symmetric-tree-101.dll
