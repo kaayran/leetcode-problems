@@ -20,8 +20,8 @@ namespace Solution
             }
         }
 
-        public static List<List<int>> Generate(int numRows) {
-            var triangle = new List<List<int>>();
+        public static IList<IList<int>> Generate(int numRows) {
+            IList<IList<int>> triangle = new List<IList<int>>();
             
             for (int i = 0; i < numRows; i++)
             {
@@ -29,7 +29,14 @@ namespace Solution
 
                 for (int j = 0; j < i + 1; j++)
                 {
-                    triangle[i].Add(1);
+                    if (j == 0 || j == i) {
+                        triangle[i].Add(1);    
+                    }
+                    else
+                    {
+                        var value = triangle[i - 1][j - 1] + triangle[i - 1][j];
+                        triangle[i].Add(value);
+                    }                                    
                 }
             }
 
