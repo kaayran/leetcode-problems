@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\bin\Debug\net6.0\pascal-triangle2-119.exe
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\bin\Debug\net6.0\pascal-triangle2-119.deps.json
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\bin\Debug\net6.0\pascal-triangle2-119.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\bin\Debug\net6.0\pascal-triangle2-119.dll
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\bin\Debug\net6.0\pascal-triangle2-119.pdb
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.dll
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\refint\pascal-triangle2-119.dll
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.pdb
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\pascal-triangle2-119.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\pascal-triangle2-119\obj\Debug\net6.0\ref\pascal-triangle2-119.dll
