@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\bin\Debug\net6.0\best-time-to-buy-stock-121.exe
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\bin\Debug\net6.0\best-time-to-buy-stock-121.deps.json
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\bin\Debug\net6.0\best-time-to-buy-stock-121.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\bin\Debug\net6.0\best-time-to-buy-stock-121.dll
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\bin\Debug\net6.0\best-time-to-buy-stock-121.pdb
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.dll
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\refint\best-time-to-buy-stock-121.dll
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.pdb
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\best-time-to-buy-stock-121.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\best-time-to-buy-stock-121\obj\Debug\net6.0\ref\best-time-to-buy-stock-121.dll
