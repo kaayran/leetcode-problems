@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\single-number-136\bin\Debug\net6.0\single-number-136.exe
+A:\Repositories\C#\leetcode-problems\single-number-136\bin\Debug\net6.0\single-number-136.deps.json
+A:\Repositories\C#\leetcode-problems\single-number-136\bin\Debug\net6.0\single-number-136.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\single-number-136\bin\Debug\net6.0\single-number-136.dll
+A:\Repositories\C#\leetcode-problems\single-number-136\bin\Debug\net6.0\single-number-136.pdb
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.dll
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\refint\single-number-136.dll
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.pdb
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\single-number-136.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\single-number-136\obj\Debug\net6.0\ref\single-number-136.dll
