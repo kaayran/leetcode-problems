@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\bin\Debug\net6.0\valid-palindrome-125.exe
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\bin\Debug\net6.0\valid-palindrome-125.deps.json
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\bin\Debug\net6.0\valid-palindrome-125.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\bin\Debug\net6.0\valid-palindrome-125.dll
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\bin\Debug\net6.0\valid-palindrome-125.pdb
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.dll
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\refint\valid-palindrome-125.dll
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.pdb
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\valid-palindrome-125.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\valid-palindrome-125\obj\Debug\net6.0\ref\valid-palindrome-125.dll
