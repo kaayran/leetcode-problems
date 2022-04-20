@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\majority-element-169\bin\Debug\net6.0\majority-element-169.exe
+A:\Repositories\C#\leetcode-problems\majority-element-169\bin\Debug\net6.0\majority-element-169.deps.json
+A:\Repositories\C#\leetcode-problems\majority-element-169\bin\Debug\net6.0\majority-element-169.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\majority-element-169\bin\Debug\net6.0\majority-element-169.dll
+A:\Repositories\C#\leetcode-problems\majority-element-169\bin\Debug\net6.0\majority-element-169.pdb
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.dll
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\refint\majority-element-169.dll
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.pdb
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\majority-element-169.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\majority-element-169\obj\Debug\net6.0\ref\majority-element-169.dll
