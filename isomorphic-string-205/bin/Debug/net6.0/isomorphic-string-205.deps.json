@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "isomorphic-string-205/1.0.0": {
+        "runtime": {
+          "isomorphic-string-205.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isomorphic-string-205/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
