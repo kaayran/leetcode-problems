@@ -1,0 +1,15 @@
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.csproj.AssemblyReference.cache
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.GeneratedMSBuildEditorConfig.editorconfig
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.AssemblyInfoInputs.cache
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.AssemblyInfo.cs
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.csproj.CoreCompileInputs.cache
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\bin\Debug\net6.0\summary-ranges-228.exe
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\bin\Debug\net6.0\summary-ranges-228.deps.json
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\bin\Debug\net6.0\summary-ranges-228.runtimeconfig.json
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\bin\Debug\net6.0\summary-ranges-228.dll
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\bin\Debug\net6.0\summary-ranges-228.pdb
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.dll
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\refint\summary-ranges-228.dll
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.pdb
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\summary-ranges-228.genruntimeconfig.cache
+A:\Repositories\C#\leetcode-problems\summary-ranges-228\obj\Debug\net6.0\ref\summary-ranges-228.dll
