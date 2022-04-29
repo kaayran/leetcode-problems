@@ -29,7 +29,6 @@
 **/msbuild.log
 **/msbuild.err
 **/msbuild.wrn
-**/*.csproj
 
 
 **/.vs/
